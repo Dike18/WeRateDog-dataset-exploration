@@ -1,4 +1,4 @@
-# WeRateDog-dataset-dexploration
+# WeRateDog-dataset-exploration
 
 # Gathering Data
 
